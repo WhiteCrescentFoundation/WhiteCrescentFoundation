@@ -1,16 +1,14 @@
-### Hi there 👋
+The White Crescent Foundation for Development and Human Rights is a non-profit civil society organization 
+established in March 2018 with the license of the Ministry of Social
+Affairs and Labor, Secretariat of the Capital – Republic of Yemen. 
 
-<!--
-**WhiteCrescentFoundation/WhiteCrescentFoundation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It is a development, human rights, social and cultural institution that serves the community and aims to strengthen it in all areas, including skills development and enhancement, highlighting the role of the community.
 
-Here are some ideas to get you started:
+We seek to build for human beings and develop society in accordance with sustainable
+development and human rights standards to contribute to providing better living conditions
+for society, and to work on all segments of community through programs and training
+courses with the aim to empower the community members to contribute effectively to the
+development and protection of civil rights. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Our goal is to put in place development projects
+in all areas.
